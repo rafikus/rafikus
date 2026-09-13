@@ -42,7 +42,7 @@ Currently based in **Łódź, Poland** and open to new remote opportunities.
 
 ### 🌍 Languages
 
-🇵🇱 Polish — Native &nbsp;|&nbsp; 🇬🇧 English — B2/C1
+🇵🇱 Polish — Native &nbsp;|&nbsp; 🇬🇧 English — C2
 
 ---
 
