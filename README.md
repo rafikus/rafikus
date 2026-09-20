@@ -9,12 +9,13 @@ Currently based in **Łódź, Poland** and open to new remote opportunities.
 
 ### 🧰 What I work with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764abc?style=flat-square&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![ClaudeCode](https://img.shields.io/badge/Claude_Code-555?logo=claude)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript)
+![React](https://img.shields.io/badge/React-20232a?logo=reactb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764abc?logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker)
 
 ---
 
