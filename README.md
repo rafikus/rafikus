@@ -9,13 +9,21 @@ Currently based in **Łódź, Poland** and open to new remote opportunities.
 
 ### 🧰 What I work with
 
-![ClaudeCode](https://img.shields.io/badge/Claude_Code-555?logo=claude)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript)
-![React](https://img.shields.io/badge/React-20232a?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764abc?logo=redux)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
-![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker)
+![Claude Code](https://img.shields.io/badge/Claude_Code-2b2522?logo=claude&logoColor=D97757)
+![Zed](https://img.shields.io/badge/Zed-2b2522?logo=zedindustries&logoColor=3D7BEF)
+![TypeScript](https://img.shields.io/badge/TypeScript-2b2522?logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-2b2522?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-2b2522?logo=nextdotjs&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-2b2522?logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/Node.js-2b2522?logo=nodedotjs&logoColor=5FA04E)
+![Prisma](https://img.shields.io/badge/Prisma-2b2522?logo=prisma&logoColor=5A67D8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b2522?logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-2b2522?logo=docker&logoColor=2496ED)
+![Apache](https://img.shields.io/badge/Apache-2b2522?logo=apache&logoColor=D22128)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2522?logo=ubuntu&logoColor=E95420)
+![Unity](https://img.shields.io/badge/Unity-2b2522?logo=unity&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-2b2522?logo=blender&logoColor=E87D0D)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-2b2522?logo=openstreetmap&logoColor=7EBC6F)
 
 ---
 
