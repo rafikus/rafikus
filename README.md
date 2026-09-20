@@ -20,6 +20,8 @@ Currently based in **Łódź, Poland** and open to new remote opportunities.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b2522?logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-2b2522?logo=docker&logoColor=2496ED)
 ![Apache](https://img.shields.io/badge/Apache-2b2522?logo=apache&logoColor=D22128)
+![Linux](https://img.shields.io/badge/Linux-2b2522?logo=linux&logoColor=FCC624)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-2b2522?logo=archlinux&logoColor=1793D1)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2b2522?logo=ubuntu&logoColor=E95420)
 ![Unity](https://img.shields.io/badge/Unity-2b2522?logo=unity&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/Blender-2b2522?logo=blender&logoColor=E87D0D)
